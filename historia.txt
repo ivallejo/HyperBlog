@@ -7,5 +7,13 @@ git commit -m "mensaje" (El archivo se va al repositorio, nombre por defecto del
 
 *staging es la memoria ram, es el estado temporal de los archivos que vas cambiando. Es un area de preparacion. Se guardan las modificaciones
 
+git rm historia.txt 
+git rm --cached historia.txt  (Esta en memoria ram - Se quito el add)
+
+---
+
+Esta es la historia de Fernando
+
+
 
 
