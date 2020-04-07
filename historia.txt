@@ -15,5 +15,7 @@ git rm --cached historia.txt  (Esta en memoria ram - Se quito el add)
 Esta es la historia de Fernando
 
 
+Hoy hablaremos de la maestria de fernando
+
 
 
