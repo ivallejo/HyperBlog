@@ -1,0 +1,11 @@
+git init 
+	Se crea una area en memoria ram y se llama staging	/.git/
+
+git add historia.txt ( Se agrega al staging area, posteriormente se envia a repositorio)
+
+git commit -m "mensaje" (El archivo se va al repositorio, nombre por defecto del repositorio master)
+
+*staging es la memoria ram, es el estado temporal de los archivos que vas cambiando. Es un area de preparacion. Se guardan las modificaciones
+
+
+
